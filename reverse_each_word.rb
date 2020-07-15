@@ -1,4 +1,4 @@
-def reverse_each_word(reverse) 
-  reverse_each_word.collect
+def reverse_each_word(reversed) 
+  reversed.collect 
   ("Hello there, and how are you?").reverse
 end
